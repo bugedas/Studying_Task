@@ -1,0 +1,7 @@
+C:\Users\buged\Desktop\Studijos\2_Kursas\2_Semestras\Algoritmu analize\LD2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\buged\Desktop\Studijos\2_Kursas\2_Semestras\Algoritmu analize\LD2\Lab2\bin\Debug\Lab2.exe
+C:\Users\buged\Desktop\Studijos\2_Kursas\2_Semestras\Algoritmu analize\LD2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\buged\Desktop\Studijos\2_Kursas\2_Semestras\Algoritmu analize\LD2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\buged\Desktop\Studijos\2_Kursas\2_Semestras\Algoritmu analize\LD2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\buged\Desktop\Studijos\2_Kursas\2_Semestras\Algoritmu analize\LD2\Lab2\obj\Debug\Lab2.exe
+C:\Users\buged\Desktop\Studijos\2_Kursas\2_Semestras\Algoritmu analize\LD2\Lab2\obj\Debug\Lab2.pdb
